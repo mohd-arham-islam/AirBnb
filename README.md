@@ -47,7 +47,7 @@ The chart highlights the popularity of room types in different areas:
 
 **Manhattan Dominates:** Manhattan is the most popular area for Airbnb bookings, with entire home/apartment rentals leading.
 
-**rooklyn's Mix:** Brooklyn follows, with strong bookings for entire home/apartment rentals and private rooms, and minimal bookings for shared rooms.
+**Brooklyn's Mix:** Brooklyn follows, with strong bookings for entire home/apartment rentals and private rooms, and minimal bookings for shared rooms.
 
 **Queens' Preference:** Queens has a notable preference for private rooms.
 
